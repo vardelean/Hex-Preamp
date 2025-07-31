@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+D1,0603,1,+7V,5973324507F
+D2,0603,1,-7V,5990040007F
+"J1, J4",PinHeader_1x07_P2.54mm_Vertical,2,Conn_01x07_Pin,
+"J2, J3",CUI_SDD-130J,2,SDD-130J,SDD-130J
+J5,PinHeader_1x02_P2.54mm_Vertical,1,Conn_01x07_Pin,
+"R1, R2",0603,2,1K,

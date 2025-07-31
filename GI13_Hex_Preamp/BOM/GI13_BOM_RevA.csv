@@ -1,0 +1,37 @@
+Reference,Value,Datasheet,Footprint,Qty,DNP,MPN,Description
+"C1,C2,C3,C4,C5,C14,C15,C16,C23,C25,C26,C29,C30,C35",0.1u,~,Capacitor_SMD:C_0603_1608Metric,14,,,Unpolarized capacitor
+"C6,C7,C8,C9,C10,C11,C28",220p,~,Capacitor_SMD:C_0603_1608Metric,7,,,Unpolarized capacitor
+"C12,C13",10u,~,Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A,2,,,Polarized capacitor
+"C17,C18,C19,C20,C21,C22,C36,C37",1n0,~,Capacitor_SMD:C_0603_1608Metric,8,,,Unpolarized capacitor
+C24,10n,~,Capacitor_SMD:C_0603_1608Metric,1,,,Unpolarized capacitor
+C27,470p,~,Capacitor_SMD:C_0603_1608Metric,1,,,Unpolarized capacitor
+C31,47n,~,Capacitor_SMD:C_0805_2012Metric,1,,C0805C473K3GECTU,Ceramic Capacitor COG
+C32,47p,~,Capacitor_SMD:C_0603_1608Metric,1,,,Unpolarized capacitor
+"C33,C34,C38,C39",0.22u,https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM31C5C1E224JE02-01A.pdf,Capacitor_SMD:C_1206_3216Metric,4,,GRM31C5C1E224JE02L,CAP CER 0.22UF 25V C0G/NP0 1206
+"D1,D2,D3,D4,D5,D6,D7,D8",1SS302,https://www.digikey.ca/en/models/5810203,User_1:USM_TOS,8,,,DIODE ARRAY GP 80V 100MA SC-70
+"H1,H2,H3,H4",MountingHole,~,MountingHole:MountingHole_2.2mm_M2_DIN965_Pad_TopBottom,4,,,Mounting Hole with connection
+J1,Conn_01x08_Pin_Box,~,Connector_JST:JST_ZH_B8B-ZR_1x08_P1.50mm_Vertical,1,,B8B-ZH-K-S,"Generic connector, single row, 01x08, script generated"
+J2,SFW14S-2STE1LF,https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/flex/flexconnectors_100mm_sfw_s.pdf,Connector_FFC-FPC:AMPHENOL_SFW14S-2STE1LF,1,,SFW14S-2STE1LF,CONN FFC FPC VERT 14POS 1MM SMD
+J3,Conn_01x02_Pin,~,Connector_JST:JST_ZH_B2B-ZR_1x02_P1.50mm_Vertical,1,,,"Generic connector, single row, 01x02, script generated"
+"J4,J5,J7",Conn_01x06_Pin,~,Connector_JST:JST_ZH_B6B-ZR_1x06_P1.50mm_Vertical,3,,,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+J6,Conn_01x03,~,Connector_JST:JST_ZH_B3B-ZR_1x03_P1.50mm_Vertical,1,,,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+"R1,R2,R3,R4,R5,R6,R24,R29",5K1,~,Resistor_SMD:R_0603_1608Metric,8,,,"Resistor, US symbol"
+"R7,R8,R9,R10,R11,R12,R13,R14",1K0,~,Resistor_SMD:R_0603_1608Metric,8,,,"Resistor, US symbol"
+"R15,R16,R17",100R,~,Resistor_SMD:R_0603_1608Metric,3,,,"Resistor, US symbol"
+"R18,R20,R23,R26,R30,R33",51R,~,Resistor_SMD:R_0603_1608Metric,6,,,"Resistor, US symbol"
+"R19,R27",220K,~,Resistor_SMD:R_0603_1608Metric,2,,,"Resistor, US symbol"
+"R21,R22",249K,~,Resistor_SMD:R_0603_1608Metric,2,,,"Resistor, US symbol"
+R25,10K,~,Resistor_SMD:R_0603_1608Metric,1,,,"Resistor, US symbol"
+R28,5M1,~,Resistor_SMD:R_0603_1608Metric,1,,,"Resistor, US symbol"
+R31,6K81,~,Resistor_SMD:R_0603_1608Metric,1,,,"Resistor, US symbol"
+"R32,R37",18K,~,Resistor_SMD:R_0603_1608Metric,2,,,"Resistor, US symbol"
+R34,9K42,~,Resistor_SMD:R_0603_1608Metric,1,,,"Resistor, US symbol"
+R35,1K8,~,Resistor_SMD:R_0603_1608Metric,1,,,"Resistor, US symbol"
+R36,1K43,~,Resistor_SMD:R_0603_1608Metric,1,,,"Resistor, US symbol"
+"RV1,RV2,RV3,RV4,RV5,RV6,RV7",20K,https://www.bourns.com/docs/Product-Datasheets/pvg3.pdf,Potentiometer_SMD:TRIM_PVG3G203C01R00,7,,PVG3G203C01R00,TRIMMER 20K OHM 0.25W GW TOP ADJ
+SW1,CL-SB-13B-11T,https://www.nidec-copal-electronics.com/e/catalog/switch/cl-sb.pdf,Switches:CLSB13B11T,1,,CLSB13B11T,"Slide Switches slide , 1 pole 3 cont., side set., gull-wing, silver contact, 2mm knob"
+SW2,CL-SB-12B-11T,https://www.nidec-copal-electronics.com/e/catalog/switch/cl-sb.pdf,Switches:CLSB12B01T,1,,CLSB12B01T,"Slide Switches slide , 1 pole 3 cont., side set., gull-wing, silver contact, 2mm knob"
+U1,MCP1754S-5002xCB,http://ww1.microchip.com/downloads/en/DeviceDoc/20002276C.pdf,Package_TO_SOT_SMD:SOT-23,1,,MCP1754ST-5002E/CB,"Fixed 150mA Low Dropout Voltage Regulator, Positive, 5V output, SOT-23"
+"U2,U3,U4,U7",OPA1692,https://www.ti.com/lit/gpn/OPA1692,Package_SO:MSOP-8_3x3mm_P0.65mm,4,,OPA1692IDGKR,Audio Amplifier 2 Circuit Rail-to-Rail 8-VSSOP
+U5,TLV9302xDGK,https://www.ti.com/lit/ds/symlink/tlv9302.pdf,Package_SO:MSOP-8_3x3mm_P0.65mm,1,,TLV9302IDGK,"40-V, 1-MHz, RRO Operational Amplifiers for Cost-Sensitive Systems, VSSOP-8"
+U6,TLV9151IDBVR,https://www.ti.com/lit/gpn/tlv9151,Package_TO_SOT_SMD:SOT-23-5,1,,TLV9151IDBVR,IC OPAMP GP 1 CIRCUIT SOT23-5
