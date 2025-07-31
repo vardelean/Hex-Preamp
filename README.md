@@ -27,3 +27,10 @@ The board is powered via the 13pin connector, just like the regular GK-3 Kit.
 ## Connectors
 JST 1.5mm connectors everywhere except for the FPC connector.
 
+## Files
+
+- 13PIN_Connector_Board/Hex_Out - Files for the 13pin connector adapter board
+- G13_Breakout_Board - Files for a test board, allows to look at the 13pins signals while conencted to the Boss equipment
+- GI13_Hex_Preamp - Main files for the Guitar Interface 13 pin Hex Preamp
+- Pics - Repository for pics and images of the board installation
+
